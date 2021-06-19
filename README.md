@@ -1,6 +1,6 @@
 ### Hi there, this is <a href="https://dsc.community.dev/u/m4dv85/#/about">Laasya!</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> 
 <br>
-<img src="ps.png">
+<img src="pht.png">
 <br>
 
 ### Here are some of the tools, frameworks, and languages I've worked with
