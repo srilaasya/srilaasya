@@ -1,1 +1,1 @@
-### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> ![](https://komarev.com/ghpvc/?username=srilaasya&style=plastic&label=Stalker+Alert) <br>
+### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> 
