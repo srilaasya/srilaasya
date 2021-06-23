@@ -9,4 +9,4 @@
 <br>
   
 ## :star: Connect with me
-<p align="left"> <a href="https://www.linkedin.com/in/sri-laasya" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/linkedin-512.png" width="40" height="40"/> </a> <a href="https://www.twitter.com/in/n-sri-laasya" target="_blank"> <img src="https://i.pinimg.com/236x/b7/91/26/b79126d537c628d7ac5429f7f84ffc8e--twitter-logo-twitter-icon.jpg" width="48" height="48"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/sri-laasya" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/linkedin-512.png" width="40" height="40"/> </a> <a href="https://www.twitter.com/in/n_sri_laasya" target="_blank"> <img src="https://i.pinimg.com/236x/b7/91/26/b79126d537c628d7ac5429f7f84ffc8e--twitter-logo-twitter-icon.jpg" width="48" height="48"/></a></p>
