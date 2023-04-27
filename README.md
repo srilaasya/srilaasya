@@ -4,7 +4,7 @@
 <img src="pht.png">
 
 ## :star: About me 💫
-🔭 I’m currently working on 100 days of DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with transfer learning with T5<br>🌱 I’m currently learning transformer architecture<br>💬 Ask me about data<br>⚡ Fun fact I've mentored at more hackathons than I've participated.
+🔭 I’m currently working on 100 days of DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with transfer learning with T5<br>🌱 I’m currently learning transformer architecture<br>💬 Ask me about data<br>⚡ Fun fact I've mentored at more hackathons than I've participated at.
 <br>
 
 ## :star: Here are some of the tools, frameworks, and languages I've worked with 💻
