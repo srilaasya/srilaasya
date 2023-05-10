@@ -1,7 +1,7 @@
 ## Hi there, this is <a href="https://dsc.community.dev/u/m4dv85/#/about">Laasya!</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
 <br>
-<img src="pht.png">
+<img src="https://github.com/srilaasya/srilaasya/assets/54776537/e5e0245a-1d79-495f-a18f-22836392761b">
 
 ## :star: About me 💫
 🔭 I’m currently working on 100 days of DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with transfer learning with T5<br>🌱 I’m currently learning transformer architecture<br>💬 Ask me about data<br>⚡ Fun fact I've mentored at more hackathons than I've participated at.
