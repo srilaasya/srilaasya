@@ -4,7 +4,7 @@
 <img src="https://github.com/srilaasya/srilaasya/assets/54776537/e5e0245a-1d79-495f-a18f-22836392761b">
 
 ## :star: About me 💫
-🔭 I’m currently working on 100 days of DSA<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with transfer learning with T5<br>🌱 I’m currently learning transformer architecture<br>💬 Ask me about data<br>⚡ Fun fact I've mentored at more hackathons than I've participated at.
+🔭 I’m currently working on writing a paper on enhancing existing clinical de-identification tools using GANs and in-house language models<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for a full-time SDE/AI Engineer roles<br>🌱 I’m currently learning and implementing full-stack applications of RAGs<br>💬 Ask me about scaling production-grade LLMs<br>⚡ Fun fact I've mentored at more hackathons than I've participated at (Over 7 hackathons, bringing my total to 13)
 <br>
 
 ## :star: Here are some of the tools, frameworks, and languages I've worked with 💻
